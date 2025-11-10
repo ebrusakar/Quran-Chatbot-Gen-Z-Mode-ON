@@ -38,6 +38,8 @@ This instruction defines the rules the model must follow in every answer and exp
 
 ## 💡 Answer Generation Logic (RAG Workflow)
 
+![RAG IMAGE](./rag_image.webp)
+
 ### 🖼️ RAG Diagram: Retrieval + Generation
 
 The "brain" of our project (RAG) works by following the **6 main steps**. Here's which component handles which step:
