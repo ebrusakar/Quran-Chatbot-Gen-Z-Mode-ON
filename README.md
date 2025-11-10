@@ -1,4 +1,4 @@
-# 📚 Quran Chatbot: Gen Z Vibe (Code: ON) 🚀
+# 📚 Quran Chatbot: Gen Z Mode: ON 🚀
 
 This project is an AI chatbot that answers questions about the Quran's meaning (Meal) and commentary (Tafsir) using a young, friendly, and **chill** language (Gen Z slang and lots of emojis). The **vibe is high**, but the language is always **respectful and sensitive** towards the holy texts and values.
 
