@@ -46,7 +46,7 @@ GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 if not GEMINI_API_KEY:
     print("UYARI: GEMINI_API_KEY, Hugging Face Secrets'ta tanımlanmalıdır.")
 
-LLM_MODEL = "gemini-2.0-flash" 
+LLM_MODEL = "gemini-2.5-flash" 
 EMBEDDING_MODEL = "nezahatkorkmaz/turkce-embedding-bge-m3" 
 
 VECTOR_DB_PATH = "chroma_kuran_db_V7_BGE-M3_Simplified" 
@@ -705,4 +705,5 @@ with gr.Blocks(title="Kur'an Chatbot (Z Kuşağı Modu: ON)") as demo:
     )
 
 if __name__ == "__main__":
+
     demo.launch()
