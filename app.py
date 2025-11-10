@@ -615,7 +615,7 @@ def gradio_chat_handler(query: str, history: List[List[str]], last_retrieved_sur
 with gr.Blocks(title="Kur'an Chatbot (Z Kuşağı Modu: ON)") as demo: 
     gr.Markdown(
         """# 📕 Kur'an Chatbot (Z Kuşağı Modu: ON) 🚀
-        **Model:** Gemini 2.0 Flash (Chill Vibe + Saygı Kontrolü)
+        **Model:** Gemini 2.5 Flash (Chill Vibe + Saygı Kontrolü)
         """
     )
     
@@ -707,3 +707,4 @@ with gr.Blocks(title="Kur'an Chatbot (Z Kuşağı Modu: ON)") as demo:
 if __name__ == "__main__":
 
     demo.launch()
+
