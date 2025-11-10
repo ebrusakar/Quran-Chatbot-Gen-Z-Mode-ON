@@ -1,0 +1,9 @@
+google-genai
+langchain
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+chromadb
+unstructured
+gradio
+torch
